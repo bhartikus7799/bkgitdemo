@@ -1,0 +1,79 @@
+body
+{
+background-image:url('look.png');	
+}
+#menu
+{
+	background-color:rgba(0,255,255,0.5);
+	color:white;
+	margin:-8px;
+	text-align:right;
+	margin-top:-15;
+}
+#menu ul li
+{
+	display:inline-block;
+	padding:20px;
+}
+#menu ul li:hover
+{
+	display:inline-block;
+	padding:20px;
+	background-color:blue;
+	border-radius:10px 20px;
+	box-shadow:10px 10px 10px 1px white;
+}
+#data
+{
+	color:white;
+	text-shadow:10px 10px 10px black;
+}
+#data1
+{
+	border-radius:10px;
+	box-shadow:7px 7px 7px black;
+}
+.t1
+{
+	background:linear-gradient(red,blue);
+	color:white;
+}
+table
+{
+	background:linear-gradient(white,blue);
+	box-shadow:15px 15px 15px black;
+}
+#tablestyle
+{
+	margin-top:100px;
+}
+a:link
+{
+	color:white;
+}
+a:visited
+{
+	color:white
+}
+
+#mymenu
+{
+	background-color:rgba(0,255,255,0.5);
+	color:white;
+	margin:-8px;
+	text-align:right;
+	margin-top:-15;
+}
+#mymenu ul li
+{
+	display:inline-block;
+	padding:20px;
+}
+#mymenu ul li:hover
+{
+	display:inline-block;
+	padding:20px;
+	background-color:blue;
+	border-radius:10px 20px;
+	box-shadow:10px 10px 10px 1px white;
+}

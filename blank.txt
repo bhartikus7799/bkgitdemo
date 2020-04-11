@@ -1,0 +1,3 @@
+this is my first git project
+i want to change for commit
+seccond time changed by me
